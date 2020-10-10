@@ -1,0 +1,47 @@
+.itemContainer {
+    width: 400px;
+    height: 450px;
+    display: flex; 
+    flex-direction: column;
+    margin: 10px;
+    padding-top: 20px;
+}
+
+.imageContainer {
+    height: 260px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+
+.itemTitle {
+    font-size: large;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 20px;
+    line-height: 20px;
+    max-height: 41px;
+    overflow: hidden;
+}
+
+.itemImage {
+    height: 100%;
+    max-height: 260px;
+    max-width: 100%;
+}
+
+.itemPrice {
+    font-size: xx-large;
+    display: inline-block;
+}
+
+.addToCartContainer {
+    margin: auto 0 0;
+}

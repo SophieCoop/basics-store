@@ -1,0 +1,35 @@
+{
+    "headerImage": "headerImage.jpg",
+    "products": [
+        {
+            "id": "ABGH45FLDJ",
+            "name": "Basics Elevated Portable Pet House", 
+            "price": "41.96"
+        },
+        {
+            "id": "ADKE28FRW9",
+            "name": "Basics Electronic Timed Pet Feeder",
+            "price": "43.36"
+        },
+        {
+            "id": "HYTSD59WE2",
+            "name": "Basics Oval Cardboard Cat Scratcher Lounger",
+            "price": "22.09"
+        },
+        {
+            "id": "GTD3KT81SW",
+            "name": "Basics Heavy Duty Stackable Pet Kennel with Tray",
+            "price": "209.93"
+        },
+        {
+            "id": "CBF3H6SW9Z",
+            "name": "Basics Cooling Elevated Pet Bed",
+            "price": "21.99"
+        },
+        {
+            "id": "FKE49S01YR",
+            "name": "Basics 8-Piece Pet Brush & Grooming Set",
+            "price": "40.96"
+        }
+    ]
+}
