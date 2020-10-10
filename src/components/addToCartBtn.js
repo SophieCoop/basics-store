@@ -12,7 +12,7 @@ const AddToCartBtn = ({product}) => {
     }
 
     return (
-        <div className="addToCartBtnContainer" color="black" onClick={onItemClick} >
+        <div className="addToCartBtnContainer" onClick={onItemClick} >
             <span>ADD TO CART</span>
         </div>
     )
